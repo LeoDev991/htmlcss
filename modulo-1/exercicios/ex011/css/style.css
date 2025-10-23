@@ -1,0 +1,19 @@
+body {
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+h1 {
+    color: darkblue;
+    background-color: rgb(120, 236, 126);
+}
+
+h2  {
+    color: darkred;
+}
+
+p {
+    text-align: justify;
+}
+
